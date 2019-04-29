@@ -113,3 +113,11 @@ a.desc:after {
 .nav > li > form > button.logout:focus {
     outline: none;
 }
+
+.product_item, .left_bar {
+    background-color: silver;
+    padding: 10px;
+    border: 1px solid black;
+    min-height: 500px;
+    margin-top: 20px;
+}
